@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Qing.
 - 👀 I’m interested in Quantitative Finance.
 - 🌱 I’m currently studying Operations Research.
-- 📫 How to reach me: [My LinkedIn](www.linkedin.com/in/qing-shang-columbia)
 - 😄 Pronouns: He/Him/His
-- ⚡ Projects:   
+- 🚀 Projects:
+    - [Black-Scholes Option Pricer](clqs001/Black-Scholes-Option-Pricer)   
 
 <!---
 clqs001/clqs001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
