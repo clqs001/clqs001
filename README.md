@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Qing.
-- 👀 I’m interested in Quantitative Finance.
+- 👀 I’m interested in Data Analysis and Quantitative Finance.
 - 🌱 I’m currently studying Operations Research.
 - 😄 Pronouns: He/Him/His
 - 🚀 Projects:
